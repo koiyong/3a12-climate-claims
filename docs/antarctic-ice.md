@@ -1,5 +1,5 @@
 ---
-title: <enter your title here>
+title: <antarctic-ice>
 layout: default
 nav_order: 1
 ---
@@ -8,7 +8,7 @@ nav_order: 1
   ##### Natalie Kwong (Oct 24, 2021)
 
   ### Evaluating the claim: is there significant loss of Antarctic sea ice?
-  The article makes two main points: first, that the melting of Antarctic ice is not unusual, and that there is no increase correlated with the increase in CO2 emissions over time. Instead, the author of this article attributes it to natural melting that occurs in interglacial periods. Secondly, they argue that even though Antarctic ice shows some melting, it is nowhere near significant enough to warrant concern. They compare the mass lost to the total ice mass and say that it  is not significant compared to the total amount of Antarctic ice present. 
+  The article makes two main points: first, that the melting of Antarctic ice is not unusual, and that there is no increase correlated with the increase in CO2 emissions over time (Anon, 2020). Instead, the author of this article attributes it to natural melting that occurs in interglacial periods. Secondly, they argue that even though Antarctic ice shows some melting, it is nowhere near significant enough to warrant concern. They compare the mass lost to the total ice mass and say that it  is not significant compared to the total amount of Antarctic ice present. 
 
 This website is associated with Anthony Watts (of ‘Watt’s Up With That?’), although this connection is not obvious from the website. He is a well-known climate skeptic and often speaks on behalf of anti-climate change groups (Liu, 2017). This means he is likely to push a viewpoint denying climate change. Not all the linked articles are in the reference list and the reference format makes it difficult to tell what information corresponds to which claim in the article. Some of the sources that are linked but do not appear in the reference list are from other climate skeptic blogs. Because of this, the article loses credibility. 
 
@@ -21,7 +21,8 @@ There are also several false claims made in the article. At one point the author
 Statements from outside sources are also presented out of context and in bad faith. The quote from Nature (Singh and Polvani, 2020) is out of context. The full paper reveals that the authors assert the reality and severity of global warming. Their models incorporate CO2-forced warming, indicating that the high elevation of the Antarctic ice sheet is contributing to the relative lack of melting. Another example of this is the figure indicating global sea change levels. The author states that the graph shows consistent and unchanging increases in sea level. However, navigating to the source (US Global Change Research Program, 2019) will again show that the data represents an increasing rate of change in sea level. 
 
 ### Works Cited
-  
+Anon 2020. Antarctic Ice Melt. [online] Everything Climate. Available at: <https://everythingclimate.org/topics/antarctic-ice-melt/> [Accessed 25 Oct. 2021].
+ 
 Intergovernmental Panel on Climate Change ed., 2015. Climate change 2014: synthesis report. Geneva, Switzerland: Intergovernmental Panel on Climate Change.
   
 Jouzel, J., Masson-Delmotte, V., Cattani, O., Dreyfus, G., Falourd, S., Hoffmann, G., Minster, B., Nouet, J., Barnola, J.M., Chappellaz, J., Fischer, H., Gallet, J.C., Johnsen, S., Leuenberger, M., Loulergue, L., Luethi, D., Oerter, H., Parrenin, F., Raisbeck, G., Raynaud, D., Schilt, A., Schwander, J., Selmo, E., Souchez, R., Spahni, R., Stauffer, B., Steffensen, J.P., Stenni, B., Stocker, T.F., Tison, J.L., Werner, M. and Wolff, E.W., 2007. Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years. Science, 317(5839), pp.793–796. https://doi.org/10.1126/science.1141038. 
